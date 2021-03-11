@@ -1,0 +1,11 @@
+E:\University\ООП\2 семестр\1 laba\mdi\mdi\bin\Debug\mdi.exe.config
+E:\University\ООП\2 семестр\1 laba\mdi\mdi\bin\Debug\mdi.exe
+E:\University\ООП\2 семестр\1 laba\mdi\mdi\bin\Debug\mdi.pdb
+E:\University\ООП\2 семестр\1 laba\mdi\mdi\obj\Debug\mdi.csprojAssemblyReference.cache
+E:\University\ООП\2 семестр\1 laba\mdi\mdi\obj\Debug\mdi.ChildForm.resources
+E:\University\ООП\2 семестр\1 laba\mdi\mdi\obj\Debug\mdi.ParentForm.resources
+E:\University\ООП\2 семестр\1 laba\mdi\mdi\obj\Debug\mdi.Properties.Resources.resources
+E:\University\ООП\2 семестр\1 laba\mdi\mdi\obj\Debug\mdi.csproj.GenerateResource.cache
+E:\University\ООП\2 семестр\1 laba\mdi\mdi\obj\Debug\mdi.csproj.CoreCompileInputs.cache
+E:\University\ООП\2 семестр\1 laba\mdi\mdi\obj\Debug\mdi.exe
+E:\University\ООП\2 семестр\1 laba\mdi\mdi\obj\Debug\mdi.pdb

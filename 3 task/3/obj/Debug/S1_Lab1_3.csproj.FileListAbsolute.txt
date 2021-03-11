@@ -1,0 +1,30 @@
+C:\Users\Денис\Desktop\Uni\ООП\S1_Lab1_3\bin\Debug\S1_Lab1_3.exe.config
+C:\Users\Денис\Desktop\Uni\ООП\S1_Lab1_3\bin\Debug\S1_Lab1_3.exe
+C:\Users\Денис\Desktop\Uni\ООП\S1_Lab1_3\bin\Debug\S1_Lab1_3.pdb
+C:\Users\Денис\Desktop\Uni\ООП\S1_Lab1_3\obj\Debug\S1_Lab1_3.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\Uni\ООП\S1_Lab1_3\obj\Debug\S1_Lab1_3.Form1.resources
+C:\Users\Денис\Desktop\Uni\ООП\S1_Lab1_3\obj\Debug\S1_Lab1_3.Properties.Resources.resources
+C:\Users\Денис\Desktop\Uni\ООП\S1_Lab1_3\obj\Debug\S1_Lab1_3.csproj.GenerateResource.cache
+C:\Users\Денис\Desktop\Uni\ООП\S1_Lab1_3\obj\Debug\S1_Lab1_3.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Uni\ООП\S1_Lab1_3\obj\Debug\S1_Lab1_3.exe
+C:\Users\Денис\Desktop\Uni\ООП\S1_Lab1_3\obj\Debug\S1_Lab1_3.pdb
+C:\Users\trifo\Desktop\S2_Lab1_T3-main\S2_Lab1_T3-main\S1_Lab1_3\bin\Debug\S1_Lab1_3.exe.config
+C:\Users\trifo\Desktop\S2_Lab1_T3-main\S2_Lab1_T3-main\S1_Lab1_3\bin\Debug\S1_Lab1_3.exe
+C:\Users\trifo\Desktop\S2_Lab1_T3-main\S2_Lab1_T3-main\S1_Lab1_3\bin\Debug\S1_Lab1_3.pdb
+C:\Users\trifo\Desktop\S2_Lab1_T3-main\S2_Lab1_T3-main\S1_Lab1_3\obj\Debug\S1_Lab1_3.csprojAssemblyReference.cache
+C:\Users\trifo\Desktop\S2_Lab1_T3-main\S2_Lab1_T3-main\S1_Lab1_3\obj\Debug\S1_Lab1_3.Form1.resources
+C:\Users\trifo\Desktop\S2_Lab1_T3-main\S2_Lab1_T3-main\S1_Lab1_3\obj\Debug\S1_Lab1_3.Properties.Resources.resources
+C:\Users\trifo\Desktop\S2_Lab1_T3-main\S2_Lab1_T3-main\S1_Lab1_3\obj\Debug\S1_Lab1_3.csproj.GenerateResource.cache
+C:\Users\trifo\Desktop\S2_Lab1_T3-main\S2_Lab1_T3-main\S1_Lab1_3\obj\Debug\S1_Lab1_3.csproj.CoreCompileInputs.cache
+C:\Users\trifo\Desktop\S2_Lab1_T3-main\S2_Lab1_T3-main\S1_Lab1_3\obj\Debug\S1_Lab1_3.exe
+C:\Users\trifo\Desktop\S2_Lab1_T3-main\S2_Lab1_T3-main\S1_Lab1_3\obj\Debug\S1_Lab1_3.pdb
+E:\University\ООП\2 семестр\1 laba\3.2 task\3\bin\Debug\S1_Lab1_3.exe.config
+E:\University\ООП\2 семестр\1 laba\3.2 task\3\bin\Debug\S1_Lab1_3.exe
+E:\University\ООП\2 семестр\1 laba\3.2 task\3\bin\Debug\S1_Lab1_3.pdb
+E:\University\ООП\2 семестр\1 laba\3.2 task\3\obj\Debug\S1_Lab1_3.csprojAssemblyReference.cache
+E:\University\ООП\2 семестр\1 laba\3.2 task\3\obj\Debug\S1_Lab1_3.Form1.resources
+E:\University\ООП\2 семестр\1 laba\3.2 task\3\obj\Debug\S1_Lab1_3.Properties.Resources.resources
+E:\University\ООП\2 семестр\1 laba\3.2 task\3\obj\Debug\S1_Lab1_3.csproj.GenerateResource.cache
+E:\University\ООП\2 семестр\1 laba\3.2 task\3\obj\Debug\S1_Lab1_3.csproj.CoreCompileInputs.cache
+E:\University\ООП\2 семестр\1 laba\3.2 task\3\obj\Debug\S1_Lab1_3.exe
+E:\University\ООП\2 семестр\1 laba\3.2 task\3\obj\Debug\S1_Lab1_3.pdb
